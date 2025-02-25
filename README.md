@@ -1,13 +1,14 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&text=p3chaeyeon&color=gradient&fontSize=40&fontAlign=25&fontAlignY=27" />
 </div>
-<!--
+
 <div align=center>
   <br>
-  - 👋 Hi, I’m @parkchaeyeon 👋
+  - 👋 Hi, I’m @Chaeyeon 👋
   <br><br><br>
+	[박채연_Portfolio.pdf](박채연_Portfolio.pdf)
 </div>
--->
+
 <div align=center>
 	<!-- 깃허브 스탯 -->
 	<img src="https://github-readme-stats.vercel.app/api?username=p3chaeyeon&show_icons=true&theme=buefy" />

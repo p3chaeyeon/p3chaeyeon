@@ -5,11 +5,10 @@
 <div align="center">
   <br>
   👋 Hi, I’m @Chaeyeon 👋  
-  📂 [박채연_Portfolio.pdf](박채연_Portfolio.pdf)
-
-
+  📂 <a href="박채연_Portfolio.pdf">박채연_Portfolio.pdf</a>  
   <br><br><br>
 </div>
+
 
 
 <div align=center>

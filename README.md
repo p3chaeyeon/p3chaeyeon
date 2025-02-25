@@ -4,7 +4,7 @@
 
 <div align="center">
   <br>
-  👋 Hi, I’m @Chaeyeon 👋  
+  👋 Hi, I’m @Chaeyeon 👋  <br>
   📂 <a href="박채연_Portfolio.pdf">박채연_Portfolio.pdf</a>  
   <br><br><br>
 </div>

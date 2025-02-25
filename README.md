@@ -5,7 +5,7 @@
 <div align="center">
   <br>
   👋 Hi, I’m @Chaeyeon 👋  
-  📂 [박채연_Portfolio.pdf](https://github.com/p3chaeyeon/박채연_Portfolio.pdf)
+  📂 [박채연_Portfolio.pdf]([https://github.com/p3chaeyeon/박채연_Portfolio.pdf](https://github.com/p3chaeyeon/p3chaeyeon/blob/main/%EB%B0%95%EC%B1%84%EC%97%B0_Portfolio.pdf))
   <br><br><br>
 </div>
 

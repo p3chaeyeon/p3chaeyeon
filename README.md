@@ -2,12 +2,13 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&text=p3chaeyeon&color=gradient&fontSize=40&fontAlign=25&fontAlignY=27" />
 </div>
 
-<div align=center>
+<div align="center">
   <br>
-  - 👋 Hi, I’m @Chaeyeon 👋
+  👋 Hi, I’m @Chaeyeon 👋  
+  📂 [박채연_Portfolio.pdf](https://github.com/p3chaeyeon/박채연_Portfolio.pdf)
   <br><br><br>
-	[박채연_Portfolio.pdf](박채연_Portfolio.pdf)
 </div>
+
 
 <div align=center>
 	<!-- 깃허브 스탯 -->
